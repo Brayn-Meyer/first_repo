@@ -1,3 +1,27 @@
 This is a text file
 
-more text
+git init
+git remote and origin link
+git add
+git commit -m "message"
+git push... if not, copy the set-upstream command
+
+if you work from home an your work is already on github.
+git clone <link>(do not make another folder if it's on github.)
+
+make a new branch then use a pull request to merge it.
+git checkout -b newbranchName
+make your changes
+-git add.
+-git push
+-git commit -m "message"
+-git push... if not, copy the set-upstream command
+
+get to github and press compare and pull request .. press fellowing gree buttons.
+
+change back to the original branch
+-git checkout main
+
+update local code 
+-get pull
+
